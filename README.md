@@ -6,13 +6,13 @@
 ## Parte Práctica (60 Puntos)
 ### Ejercicio 1: Almacenamiento de Datos (15 Puntos)
 - *Diagrama de Conexión*: [Ver diagrama](/proyectos/ejercicio_1_almacenamiento_datos/diagramas)
-- *Código Documentado*: [Ver código](https://drive.google.com/file/d/1MsKvak-uNxPDLSzYgNi-MNoY6FNCbyFu/view?usp=sharing)
-- *Video de Funcionamiento*: [Ver video](https://drive.google.com/file/d/14MlwHm4HQjHGRslvUfB50J09VRLkNeRh/view?usp=sharing)
+- *Código Documentado*: [Ver código](https://drive.google.com/file/d/19DCmFGblouoOACEMoo9PnsUInnkVHwzA/view?usp=sharing)
+- *Video de Funcionamiento*: [Ver video](https://drive.google.com/file/d/19n4yVjcfeZYIwyk4OqNJJc8cIvjYOoTS/view?usp=sharing)
 
 ### Ejercicio 2: Control de Actuadores (15 Puntos)
 - *Diagrama de Conexión*: [Ver diagrama](/proyectos/ejercicio_2_control_actuadores/diagramas)
 - *Código Documentado*: [Ver código](https://drive.google.com/file/d/14MlwHm4HQjHGRslvUfB50J09VRLkNeRh/view?usp=sharing)
-- *Video de Funcionamiento*: [Ver video](/proyectos/ejercicio_2_control_actuadores/videos)
+- *Video de Funcionamiento*: [Ver video](https://drive.google.com/file/d/13mlFPmeQ_hC-IyKhHyPI91uiM4A1rMwB/view?usp=sharing)
 
 ### Ejercicios en Clase: Videos Demostrativos (10 Puntos)
 - *CRUD en PostgreSQL*: [Ver video](https://drive.google.com/file/d/1LTdsi2365uG0KbI1RaFFL84pnqz_vwIt/view?usp=sharing)

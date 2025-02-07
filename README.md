@@ -11,7 +11,7 @@
 
 ### Ejercicio 2: Control de Actuadores (15 Puntos)
 - *Diagrama de Conexión*: [Ver diagrama](/proyectos/ejercicio_2_control_actuadores/diagramas)
-- *Código Documentado*: [Ver código](https://drive.google.com/file/d/14MlwHm4HQjHGRslvUfB50J09VRLkNeRh/view?usp=sharing)
+- *Código Documentado*: [Ver código](https://drive.google.com/file/d/14l_f879Xuobx8TiwaPu0Se6xP1Zi6V7S/view?usp=sharing)
 - *Video de Funcionamiento*: [Ver video](https://drive.google.com/file/d/13mlFPmeQ_hC-IyKhHyPI91uiM4A1rMwB/view?usp=sharing)
 
 ### Ejercicios en Clase: Videos Demostrativos (10 Puntos)

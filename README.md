@@ -1,7 +1,7 @@
 ## Parte Teórica (30 Puntos)
 ### Ejercicios de NetAcad Python Fundamentals 2
 
-- *Capturas de Pantalla*: [Ver capturas](https://drive.google.com/file/d/1SnoXu5YPqd-OkHJrYz46UXsCJmKZVgKw/view?usp=sharing)
+- *Capturas de Pantalla*: [Ver capturas](https://drive.google.com/file/d/103ub6lh-iFAlNT98j1O9UWlszrM-8hyD/view?usp=sharing)
 
 ## Parte Práctica (60 Puntos)
 ### Ejercicio 1: Almacenamiento de Datos (15 Puntos)

@@ -15,10 +15,10 @@
 - *Video de Funcionamiento*: [Ver video](https://drive.google.com/file/d/13mlFPmeQ_hC-IyKhHyPI91uiM4A1rMwB/view?usp=sharing)
 
 ### Ejercicios en Clase: Videos Demostrativos (10 Puntos)
-- *CRUD en PostgreSQL*: [Ver video](https://drive.google.com/file/d/1LTdsi2365uG0KbI1RaFFL84pnqz_vwIt/view?usp=sharing)
-- *Instalaciones y Configuraciones Básicas*: [Ver video]()
-- *LED y Botón con Raspberry Pi*: [Ver video Botón](https://drive.google.com/file/d/1ayCkR2DKQ5KfLch6ubPs-PPF9SrBeLXi/view?usp=sharing) [Ver video Led](https://drive.google.com/file/d/1Lnuybu1_6YkqqEay-GOShChMK7HkrHFE/view?usp=sharing)
-- *Conexión MQTT en Node-RED*: [Ver video]()
+- *CRUD en PostgreSQL*: [Ver video](https://drive.google.com/file/d/1iG4RB1SO0Td9A_v_0uGkO2PKtv-dB2is/view?usp=sharing)
+- *Instalaciones y Configuraciones Básicas*: [Ver video](https://drive.google.com/file/d/1mOw0aDjdcZHsSDiWp4UGPNiAd25VdBoB/view?usp=sharing)
+- *LED y Botón con Raspberry Pi*: [Ver video Botón](https://drive.google.com/file/d/1Jkx1hk0SKtWOSItbNeH9jMFhXeaQy8JD/view?usp=sharing) [Ver video Led](https://drive.google.com/file/d/1iKUR2FGNmcDvoU8USyoNdRrMMGjCKghf/view?usp=sharing)
+- *Conexión MQTT en Node-RED*: [Ver video](https://drive.google.com/file/d/1GsSQFSfWRnfslcCeqwKBNA5kBDd07NEP/view?usp=sharing)
 
 ### Ejercicios de Soldadura (20 Puntos)
 #### Ejercicio 3: Circuito Funcional en Placa Fenólica (10 Puntos)

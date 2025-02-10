@@ -5,12 +5,12 @@
 
 ## Parte Práctica (60 Puntos)
 ### Ejercicio 1: Almacenamiento de Datos (15 Puntos)
-- *Diagrama de Conexión*: [Ver diagrama](/proyectos/ejercicio_1_almacenamiento_datos/diagramas)
+- *Diagrama de Conexión*: [Ver diagrama](https://drive.google.com/file/d/1zDs04B_uuXCGFxXlg64_EvTXKkvZo8LV/view?usp=sharing)
 - *Código Documentado*: [Ver código](https://drive.google.com/file/d/19DCmFGblouoOACEMoo9PnsUInnkVHwzA/view?usp=sharing)
 - *Video de Funcionamiento*: [Ver video](https://drive.google.com/file/d/19n4yVjcfeZYIwyk4OqNJJc8cIvjYOoTS/view?usp=sharing)
 
 ### Ejercicio 2: Control de Actuadores (15 Puntos)
-- *Diagrama de Conexión*: [Ver diagrama](/proyectos/ejercicio_2_control_actuadores/diagramas)
+- *Diagrama de Conexión*: [Ver diagrama](https://drive.google.com/file/d/1qGN5_dEbdjStkV3Rru06B1-2ufs_2y7H/view?usp=sharing)
 - *Código Documentado*: [Ver código](https://drive.google.com/file/d/14l_f879Xuobx8TiwaPu0Se6xP1Zi6V7S/view?usp=sharing)
 - *Video de Funcionamiento*: [Ver video](https://drive.google.com/file/d/13mlFPmeQ_hC-IyKhHyPI91uiM4A1rMwB/view?usp=sharing)
 
@@ -33,7 +33,7 @@ Este proyecto fue desarrollado por Zahir Andrés Rodríguez Mora y Cesar Enrique
 Se reconoce la falta de anticipación en el registro de evidencia requerida para la evaluación. Sin embargo, se valora la búsqueda activa de una solución viable, eficiente y eficaz para garantizar su documentación.
 
 ## 📌 Nota Informativa  
-> 🎓 *Calificación de Cesar Enrique Garay García: 10/10*  
-> Cesar demostró un alto nivel de autonomía y autodidactismo a lo largo del desarrollo del proyecto.  
+> 🎓 *Calificación de Zahir Rodriguez Mora: 10/10*  
+> Zahir demostró un alto nivel de compromiso y autonomia durante las practicas.  
 > Su capacidad para investigar y aplicar soluciones por iniciativa propia complementó significativamente el trabajo en equipo,  
-> asegurando un resultado más sólido y bien documentado.
+asegurando un resultado más sólido y bien documentado.

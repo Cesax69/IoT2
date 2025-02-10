@@ -23,9 +23,10 @@
 ### Ejercicios de Soldadura (20 Puntos)
 #### Ejercicio 3: Circuito Funcional en Placa Fenólica (10 Puntos)
 - *Fotografía en Repositorio*: Entregado y almacenado por el profesor.
+- https://drive.google.com/file/d/1_iN78zixJLi-7uCd5pjIzIzu_rTcz2bP/view?usp=sharing
 
 #### Ejercicio 4: Figura 2D o 3D Soldada (10 Puntos)
-- *Fotografía en Repositorio*: [Ver fotografía](https://drive.google.com/file/d/1oYhv3zZzlU9iCok7U9Sdo_vTLbEmE3D3/view?usp=sharing)
+- *Fotografía en Repositorio*: [Ver fotografía](https://drive.google.com/file/d/18uavTEnE3MiLeHTwaVta8gQTKDn6X6oX/view?usp=sharing)
 
 ## Contribuciones
 Este proyecto fue desarrollado por Zahir Andrés Rodríguez Mora y Cesar Enrique Garay García como parte de la evaluación ordinaria de la asignatura *Aplicaciones de IoT*. El desempeño del equipo fue satisfactorio, destacando una notable mejora en la organización y el cumplimiento de los plazos de entrega, con un esfuerzo constante por cumplir los requerimientos establecidos.
